@@ -13,7 +13,9 @@
     <a href="mailto:tahirnuranov1@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
     </a>
-    <a href="https://join.skype.com/invite/vNeE45Svtd9P" target="_blank">
+    
+<!--     https://join.skype.com/invite/vNeE45Svtd9P -->
+    <a href="https://join.skype.com/invite/DZ1hFso6qtGb" target="_blank">
         <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
     </a>
     <a href="https://t.me/@upworkdev" target="_blank">
